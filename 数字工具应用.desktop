@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=数字工具应用
+Comment=启动数字工具 Streamlit 应用
+Exec=/workspaces/codespaces-jupyter/run_app.sh
+Icon=utilities-terminal
+Terminal=true
+Categories=Utility;
