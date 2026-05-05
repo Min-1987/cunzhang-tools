@@ -6,4 +6,5 @@ Comment=启动数字工具 Streamlit 应用
 Exec=/workspaces/codespaces-jupyter/run_app.sh
 Icon=utilities-terminal
 Terminal=true
-Categories=Utility;
+Categories=Utility;cd /workspaces/codespaces-jupyter
+./run_app.sh
