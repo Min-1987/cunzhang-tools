@@ -1,0 +1,11 @@
+﻿# 系统
+Thumbs.db
+.DS_Store
+*.log
+
+# 敏感
+.openclaw/openclaw.json
+health/incident.md
+
+# 临时
+*.bak

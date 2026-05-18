@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "skills": {
+    "file-manager": {
+      "version": "1.2.0",
+      "installedAt": 1779116859847
+    },
+    "pdf-tool": {
+      "version": "1.0.0",
+      "installedAt": 1779116868028
+    },
+    "office": {
+      "version": "1.0.0",
+      "installedAt": 1779116901229
+    },
+    "skill-vetter": {
+      "version": "1.0.0",
+      "installedAt": 1779134098364
+    }
+  }
+}

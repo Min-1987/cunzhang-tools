@@ -1,0 +1,22 @@
+﻿{
+    "openclaw":  {
+                     "status":  "running",
+                     "lastCheck":  "2026-05-19 03:35:43",
+                     "memory":  {
+
+                                },
+                     "version":  null
+                 },
+    "hermes":  {
+                   "status":  "unknown",
+                   "lastCheck":  null,
+                   "memory":  {
+
+                              },
+                   "version":  null
+               },
+    "workspace":  {
+                      "structureVersion":  "1.0",
+                      "lastSync":  null
+                  }
+}
